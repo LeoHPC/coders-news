@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="">View demo</a>
+  <a href="https://coders-news-leohpc.vercel.app">View demo</a>
 </p>
 
 <p align="center">
@@ -45,4 +45,4 @@ This project is licensed under the MIT License. See the [LICENSE](https://openso
 
 ---
 
-Made with ❤ by Leonardo Henrique :kissing_smilling_eyes: [Get in touch](https://opensource.org/licenses/MIT)
+Made with ❤ by Leonardo Henrique :kissing: [Get in touch](https://opensource.org/licenses/MIT)
